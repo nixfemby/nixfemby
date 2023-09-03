@@ -1,3 +1,6 @@
+# Moving to GitLab - wxifu
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+
 <h2 align="left">Hi I'm Ruby</h2>
 
 ###
